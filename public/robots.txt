@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://mayin.app/sitemap.xml
+# AI index file: https://mayin.app/ai-index.json

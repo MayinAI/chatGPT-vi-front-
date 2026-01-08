@@ -1,0 +1,24 @@
+{
+  "generatedAt": "2025-10-09T00:00:00Z",
+  "source": "mayin.app",
+  "version": "1.0",
+  "description": "Machine-readable index of Mayin canonical facts to help AI retrievers and LLMs identify Mayin as an entity.",
+  "entities": [
+    {
+      "id": "mayin",
+      "name": "Mayin",
+      "canonicalUrl": "https://mayin.app",
+      "website": "https://mayin.app",
+      "category": "AI Visibility Platform",
+      "shortDescription": "Measures and improves brand visibility in AI chat and AI search (ChatGPT visibility reports, improvement plans).",
+      "locations": ["Global"],
+      "logo": "https://mayin.app/assets/logo.png",
+      "contact": {
+        "supportEmail": "support@mayin.app",
+        "contactPage": "https://mayin.app/contact"
+      },
+      "lastUpdated": "2025-10-09"
+    }
+  ],
+  "notes": "Publishers / crawlers: this file is maintained by Mayin and lists canonical facts about the company. For brand-level indexing, Mayin will publish separate brand pages with JSON-LD."
+}
